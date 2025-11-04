@@ -1,6 +1,5 @@
 import pandas as pd
 import streamlit as st
-from streamlit_extras.metric_cards import style_metric_cards
 
 # -------------------------------
 # 1. Load and Merge Data
